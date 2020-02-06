@@ -1,0 +1,10 @@
+var x = 20;
+var y = 30;
+var sum = 20 + 30;
+var sub = 20 - 30;
+var mul = 20 * 30;
+var div = 20 / 30;
+console.log(sum);
+console.log(sub);
+console.log(mul);
+console.log(div);
